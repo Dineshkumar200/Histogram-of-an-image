@@ -31,7 +31,7 @@ Display the grayscale image.
 import cv2
 import matplotlib.pyplot as plt
 Gray_image= cv2.imread('flower.jpg')
-re=cv2.resize(img1,(280,175))
+re=cv2.resize(Gray_image,(280,175))
 Color_image= cv2.imread('bike.jpg') 
 cv2.imshow('Gray image',re)
 
