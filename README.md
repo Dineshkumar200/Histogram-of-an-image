@@ -59,7 +59,8 @@ plt.show()
 # Write the code to perform histogram equalization of the image. 
 
 
-
+Gray_image= cv2.imread('flower.jpg',0)
+re=cv2.resize(Gray_image,(280,175))
 equ=cv2.equalizeHist(re)
 cv2.imshow('Gray Image',re)
 
@@ -84,7 +85,8 @@ cv2.waitKey(0)
 
 
 ### Histogram Equalization of Grayscale Image
-![d3](https://user-images.githubusercontent.com/75235789/165101643-149027e5-3538-456b-b27c-8cc8a1ca0dcb.jpg)
+
+![d4](https://user-images.githubusercontent.com/75235789/165108568-b0787e1d-bc48-4119-a491-34218301966c.jpg)
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
