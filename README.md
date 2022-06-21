@@ -19,7 +19,7 @@ Equalize the grayscale image.
 ### Step5:
 Display the grayscale image.
 
-## Program:
+## <br/><br/><br/><br/><br/><br/><br/>Program:
 ```python
 # Developed By: Dineshkumar V
 # Register Number:212220230013
@@ -84,9 +84,9 @@ cv2.waitKey(0)
 ![d2](https://user-images.githubusercontent.com/75235789/165101619-b5e36751-106b-42e7-97d9-cbfb7f7b6b7c.jpg)
 
 
-### Histogram Equalization of Grayscale Image
+### <br/><br/><br/><br/><br/>Histogram Equalization of Grayscale Image
 
 ![d4](https://user-images.githubusercontent.com/75235789/165108568-b0787e1d-bc48-4119-a491-34218301966c.jpg)
 
-## Result: 
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/>Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
