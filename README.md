@@ -1,4 +1,4 @@
-# Histogram and Histogram Equalization of an image
+# 4.Histogram and Histogram Equalization of an image
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -88,5 +88,5 @@ cv2.waitKey(0)
 
 ![d4](https://user-images.githubusercontent.com/75235789/165108568-b0787e1d-bc48-4119-a491-34218301966c.jpg)
 
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/>Result: 
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
